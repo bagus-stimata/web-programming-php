@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="lat9-crud-nonobject-ext"/>
+	<buildpathentry kind="src" path="lat3-kondisi"/>
+	<buildpathentry kind="src" path=".settings"/>
+	<buildpathentry kind="src" path="tugas2"/>
+	<buildpathentry kind="src" path="lat1-hellophp"/>
+	<buildpathentry kind="src" path="lat16-operasi-file-ext-BELUM"/>
+	<buildpathentry kind="src" path="lat11-session"/>
+	<buildpathentry kind="src" path="lat10-crud-object-simple"/>
+	<buildpathentry kind="src" path="lat6-objek-fungsi"/>
+	<buildpathentry kind="src" path="lat13-cms-static"/>
+	<buildpathentry kind="src" path="lat14-cms-javascript-BELUM"/>
+	<buildpathentry kind="src" path="lat4-fungsi"/>
+	<buildpathentry kind="src" path="lat5-variable-array"/>
+	<buildpathentry kind="src" path="lat2-perulangan"/>
+	<buildpathentry kind="src" path="lat15-operasi-file"/>
+	<buildpathentry kind="src" path="lat7-database-basic"/>
+	<buildpathentry kind="src" path="lat8-crud-nonobject"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="lat13-cms-dinamis"/>
+	<buildpathentry kind="src" path="lat17-upload-download-email-BELUM"/>
+	<buildpathentry kind="src" path="lat12-cookie"/>
+	<buildpathentry kind="src" path="lat10-crud-object"/>
+</buildpath>
